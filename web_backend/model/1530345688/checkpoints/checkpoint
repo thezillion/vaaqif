@@ -1,0 +1,6 @@
+model_checkpoint_path: "/home/prince/playground/cnn-text-classification-tf/runs/1530345688/checkpoints/model-1900"
+all_model_checkpoint_paths: "/home/prince/playground/cnn-text-classification-tf/runs/1530345688/checkpoints/model-1500"
+all_model_checkpoint_paths: "/home/prince/playground/cnn-text-classification-tf/runs/1530345688/checkpoints/model-1600"
+all_model_checkpoint_paths: "/home/prince/playground/cnn-text-classification-tf/runs/1530345688/checkpoints/model-1700"
+all_model_checkpoint_paths: "/home/prince/playground/cnn-text-classification-tf/runs/1530345688/checkpoints/model-1800"
+all_model_checkpoint_paths: "/home/prince/playground/cnn-text-classification-tf/runs/1530345688/checkpoints/model-1900"
